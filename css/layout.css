@@ -1,0 +1,214 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:auto;
+	background-image:url(http://www.cederalandscapes.com/images/layout/Landscape_60.jpg);
+	background-position: center top, left top;
+	background-repeat: no-repeat;
+	background-color:#81400d;
+	
+}
+#Content {
+	width:1024px;
+	margin:auto;
+	background-color:#eee596;
+	padding-bottom:35px;
+	overflow:auto;
+	
+	-moz-box-shadow: 0px 0px 5px #424242;
+	-webkit-box-shadow: 0px 0px 5px #424242;
+	box-shadow: 0px 0px 5px #424242;
+	
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+#nav_wrapper {
+	width:1024px;
+	height:35px;
+	background-image:url(http://www.cederalandscapes.com/images/layout/link_button.gif);
+	background-repeat:repeat-x;
+}
+	#top_nav a {
+		padding:15px;
+	}
+	.subnav, .subnav_filler {
+	width:146px;
+	height:35px;
+	float:left;
+	text-align:center;
+	}
+	/*.subnav:hover {
+		background-image:url(http://www.cederalandscapes.com/images/layout/link_button_hover.png);
+		background-repeat:repeat-x;
+	} */
+	.subnav a {
+		padding-top:10px;
+	}
+	
+#MainLogo {
+}
+a:link {
+	color:#eee596;
+	text-decoration:none;
+	}
+a:visited {
+	color:#eee596;
+	}
+a:hover {
+	color:#FFFFFF;
+	text-decoration:underline;
+	}
+a:active {
+	color:8d3e00;
+	}
+	#wrapper {
+		min-height:500px;
+		background-image:url(http://www.cederalandscapes.com/images/layout/wrapper-bg.gif);
+		background-repeat:repeat-x;
+	}
+		#left, #right {
+			margin:60px 10px 0px 10px;
+			padding:15px;
+			float:left;
+			min-height:400px;
+			position:inherit;
+		}
+		#left {
+			width:300px;		
+		}
+		#right {
+			width:620px;
+			
+		}
+	#WrapperFooter {
+		margin:auto;
+		width:1024px;
+		
+	}
+	#footer{
+	min-height:250px;
+	padding:10px;
+	}
+		.footerTxt {
+			color:#FFFFFF;
+		}
+		#footer1, #footer3 {
+			width:300px;
+			float:left;
+			margin:10px;
+			padding:10px;
+		}
+		#footer2 {
+			width:300px;
+			float:left;
+			margin:10px;
+			padding:10px;
+		}
+		#footer1, #footer2, #footer3, #left, #right {
+			background-color:#81400d;
+			
+			-moz-box-shadow: 0px 0px 5px #424242;
+			-webkit-box-shadow: 0px 0px 5px #424242;
+			box-shadow: 0px 0px 5px #424242;
+			
+			border-radius:5px;
+			-moz-border-radius:5px;
+			-webkit-border-radius:5px;
+			
+		}
+		#footer3 {
+			text-align:center;
+			padding:0px;
+		}
+			
+#LLeft, #LRight {
+	float:left;
+	width:100px;
+	}
+/* style class for contact form */
+
+.txt {
+		background-color:#eee596;
+}
+.formField{
+	width:590px;
+}
+//legend {
+	padding:2px;
+}
+/* style class for footer */
+.fb-like {
+	padding-bottom:5px;
+}
+.plusone {
+	padding-bottom:5px;
+}
+
+/* end style class for footer */
+/* slideshow styling on portfolio pages */
+#slideshow img { 
+	display: none 
+	border:none;
+	padding: 5px;
+	border: 1px solid #EEE596;
+	background-color: #EEE596;
+	
+	-moz-box-shadow: 0px 0px 5px #424242;
+	-webkit-box-shadow: 0px 0px 5px #424242;
+	box-shadow: 0px 0px 5px #424242;
+	
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+
+.portLinks { 
+	display:block; 
+	margin-left:15px;
+}
+
+#slideshow img.first { display: block }
+
+#slideshow {
+	 margin:auto;
+	 clear:left;
+	 margin-top:15px;
+	 margin-bottom:15px;
+}
+#buttons {
+	text-align:center;
+	margin:auto;
+	width:300px;
+}
+/* this is for any images you want to have a border around with the tan brown color and a slight drop shadow */
+.drop-shadow-image {
+	padding: 5px;
+	border: 1px solid #EEE596;
+	background-color: #EEE596;
+	float:right;
+	margin:5px;
+	
+	-moz-box-shadow: 0px 0px 5px #424242;
+	-webkit-box-shadow: 0px 0px 5px #424242;
+	box-shadow: 0px 0px 5px #424242;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+
+/* this style is for the contact page for the image to show above the contact form.  The clear right forces the form under the image. */
+.image {
+	text-align:center;
+}
+.text {
+	clear:right;
+}
+/* this style is for any image that you do not want a border around.  I used this for the facebook.png in the footer */
+.noBorder {
+	border:none;
+}
+.pics {
+	width:580px;
+}
