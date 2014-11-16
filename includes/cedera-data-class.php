@@ -1,5 +1,5 @@
 <?php
-$site_url = 'http://cederalandscapes.com';
+$site_url = 'http://cedera-reyncons.rhcloud.com';
 function footer() {
 	print '
 	<div id="WrapperFooter">

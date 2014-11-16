@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="<?php $site_url ?>/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="http://www.cederalandscapes.com/css/layout.css" />
 <meta name="description" content="Cedera Landscapes - Creating high quality landscapes and exceeding customer expectations since 2005. " />
 <meta name="keywords" content="cedera, landscapes, cederalandscapes, lawn care, lawn maintenance, lawn, lawns, snow removal, sprinkler systems, install sprinkler systems, cedera landscapes, cedera land scapes, swan valley, swanvalley, cedera lanscapes in swan valley idaho" />
 <title>Cedera Landscapes, LLC</title>
@@ -64,22 +64,22 @@ analytics();
     <div id="right">
     <h1>Gallery 15</h1>
     <div id="slideshow" class="pics">
-    	<img class="first" src="<?php $site_url ?>/images/portfolio/gallery15/IMG_1962.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_1963.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2029.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2048.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2340.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2518.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2519.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2520.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2521.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2522.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2523.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2525.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2526.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2527.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2528.JPG" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery15/IMG_2529.JPG" />
+    	<img class="first" src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_1962.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_1963.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2029.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2048.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2340.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2518.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2519.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2520.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2521.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2522.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2523.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2525.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2526.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2527.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2528.JPG" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery15/IMG_2529.JPG" />
     </div>
     <div id="buttons">
         <a href="#"><span id="prev">Prev</span></a> 

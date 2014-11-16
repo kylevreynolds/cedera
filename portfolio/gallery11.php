@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="<?php $site_url ?>/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="http://www.cederalandscapes.com/css/layout.css" />
 <meta name="description" content="Cedera Landscapes - Creating high quality landscapes and exceeding customer expectations since 2005. " />
 <meta name="keywords" content="cedera, landscapes, cederalandscapes, lawn care, lawn maintenance, lawn, lawns, snow removal, sprinkler systems, install sprinkler systems, cedera landscapes, cedera land scapes, swan valley, swanvalley, cedera lanscapes in swan valley idaho" />
 <title>Cedera Landscapes, LLC</title>
@@ -64,21 +64,21 @@ analytics();
     <div id="right">
     <h1>Gallery 11</h1>
     <div id="slideshow" class="pics">
-    	<img class="first" src="<?php $site_url ?>/images/portfolio/gallery11/027.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/029.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/042.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/051.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/057.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/066.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/077.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/095.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/101.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/111.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/221.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/387.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/388.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/406.jpg" />
-        <img src="<?php $site_url ?>/images/portfolio/gallery11/545.jpg" />
+    	<img class="first" src="http://www.cederalandscapes.com/images/portfolio/gallery11/027.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/029.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/042.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/051.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/057.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/066.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/077.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/095.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/101.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/111.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/221.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/387.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/388.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/406.jpg" />
+        <img src="http://www.cederalandscapes.com/images/portfolio/gallery11/545.jpg" />
     </div>
     <div id="buttons">
         <a href="#"><span id="prev">Prev</span></a> 
