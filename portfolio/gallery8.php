@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="http://www.cederalandscapes.com/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="<?php $site_url ?>/css/layout.css" />
 <meta name="description" content="Cedera Landscapes - Creating high quality landscapes and exceeding customer expectations since 2005. " />
 <meta name="keywords" content="cedera, landscapes, cederalandscapes, lawn care, lawn maintenance, lawn, lawns, snow removal, sprinkler systems, install sprinkler systems, cedera landscapes, cedera land scapes, swan valley, swanvalley, cedera lanscapes in swan valley idaho" />
 <title>Cedera Landscapes, LLC</title>
@@ -64,15 +64,15 @@ analytics();
     <div id="right">
     <h1>Gallery 8</h1>
     <div id="slideshow" class="pics">
-    	<img class="first" src="http://www.cederalandscapes.com/images/portfolio/gallery8/217.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/218.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/220.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/221.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/222.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/224.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/226.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/228.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery8/229.jpg" />
+    	<img class="first" src="<?php $site_url ?>/images/portfolio/gallery8/217.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/218.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/220.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/221.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/222.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/224.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/226.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/228.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery8/229.jpg" />
     </div>
     <div id="buttons">
         <a href="#"><span id="prev">Prev</span></a> 

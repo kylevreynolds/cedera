@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="http://www.cederalandscapes.com/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="<?php $site_url ?>/css/layout.css" />
 <meta name="description" content="Cedera Landscapes - Creating high quality landscapes and exceeding customer expectations since 2005. " />
 <meta name="keywords" content="cedera, landscapes, cederalandscapes, lawn care, lawn maintenance, lawn, lawns, snow removal, sprinkler systems, install sprinkler systems, cedera landscapes, cedera land scapes, swan valley, swanvalley, cedera lanscapes in swan valley idaho" />
 <title>Cedera Landscapes, LLC</title>
@@ -67,36 +67,36 @@ analytics();
     <div id="right">
     <h1>Gallery 1</h1>
     <div id="slideshow" class="pics">
-		<img class="first" src="http://www.cederalandscapes.com/images/portfolio/gallery4/051.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/053.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/054.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/055.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/056.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/057.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/058.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/059.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/060.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/061.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/062.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/063.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/064.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/065.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/066.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/067.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/068.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/187.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/562.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/017.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/022.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/023.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/033.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/036.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/042.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/043.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/046.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/048.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/050.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery4/021.jpg" />
+		<img class="first" src="h<?php $site_url ?>/images/portfolio/gallery4/051.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/053.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/054.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/055.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/056.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/057.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/058.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/059.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/060.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/061.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/062.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/063.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/064.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/065.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/066.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/067.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/068.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/187.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/562.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/017.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/022.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/023.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/033.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/036.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/042.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/043.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/046.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/048.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/050.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery4/021.jpg" />
     </div>
     <div id="buttons">
         <a href="#"><span id="prev">Prev</span></a> 
