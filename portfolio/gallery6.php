@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="http://www.cederalandscapes.com/css/layout.css" />
+<link rel="stylesheet" type="text/css" href="<?php $site_url ?>/css/layout.css" />
 <meta name="description" content="Cedera Landscapes - Creating high quality landscapes and exceeding customer expectations since 2005. " />
 <meta name="keywords" content="cedera, landscapes, cederalandscapes, lawn care, lawn maintenance, lawn, lawns, snow removal, sprinkler systems, install sprinkler systems, cedera landscapes, cedera land scapes, swan valley, swanvalley, cedera lanscapes in swan valley idaho" />
 <title>Cedera Landscapes, LLC</title>
@@ -41,56 +41,39 @@ analytics();
   <div id="wrapper"> 
     <!-- left contains the left div information -->
     <div id="left">
-      <h1>Portfolio</h1>
-
-      <a class="portLinks" href="../portfolio.php">Gallery 1</a>
-      <a class="portLinks" href="gallery2.php">Gallery 2</a>
-      <a class="portLinks" href="gallery3.php">Gallery 3</a>
-      <a class="portLinks" href="gallery4.php">Gallery 4</a>
-      <a class="portLinks" href="gallery5.php">Gallery 5</a>
-      <a class="portLinks" href="gallery6.php">Gallery 6</a>
-      <a class="portLinks" href="gallery7.php">Gallery 7</a>
-      <a class="portLinks" href="gallery8.php">Gallery 8</a>
-      <a class="portLinks" href="gallery9.php">Gallery 9</a>
-      <a class="portLinks" href="gallery10.php">Gallery 10</a>
-      <a class="portLinks" href="gallery11.php">Gallery 11</a>
-      <a class="portLinks" href="gallery12.php">Gallery 12</a>
-      <a class="portLinks" href="gallery13.php">Gallery 13</a>
-      <a class="portLinks" href="gallery14.php">Gallery 14</a>
-      <a class="portLinks" href="gallery15.php">Gallery 15</a>
-
+<?php porfolio_links(); ?>
     </div>
     <!-- right contains the right div information-->
     <div id="right">
     <h1>Gallery 6</h1>
     <div id="slideshow" class="pics">
-    	<img class="first" src="http://www.cederalandscapes.com/images/portfolio/gallery6/001.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/008.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/025.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/039.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/077.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/078.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/079.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/080.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/081.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/115.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/116.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/117.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/118.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/159.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/184.jpg" />
+    	<img class="first" src="<?php $site_url ?>/images/portfolio/gallery6/001.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/008.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/025.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/039.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/077.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/078.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/079.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/080.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/081.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/115.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/116.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/117.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/118.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/159.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/184.jpg" />
         <!--
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/483.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/548.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/552.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/554.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/555.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/556.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/560.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/561.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/576.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/568.jpg" />
-        <img src="http://www.cederalandscapes.com/images/portfolio/gallery6/570.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/483.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/548.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/552.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/554.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/555.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/556.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/560.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/561.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/576.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/568.jpg" />
+        <img src="<?php $site_url ?>/images/portfolio/gallery6/570.jpg" />
         -->
     </div>
     <div id="buttons">

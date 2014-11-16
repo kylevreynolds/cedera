@@ -1,13 +1,17 @@
 <?php
-$site_url = 'http://cedera-reyncons.rhcloud.com';
+global $site_url;
+//define("$site_url", "http://www.cederalandscapes.com");
+$site_url = 'http://cedera';
+
 function footer() {
+	global $site_url;
 	print '
 	<div id="WrapperFooter">
 	<div id="footer">
 	<div id="footer1">
 			 
 			<h2>Cedera Landscapes, LLC</h2>
-			<p><a href="https://www.facebook.com/#!/pages/Cedera-Landscapes-LLC/145905138803534" target="_blank"><img  class="noBorder" src="http://www.cederalandscapes.com/images/layout/facebook.png"> Find us on facebook</a></p>
+			<p><a href="https://www.facebook.com/#!/pages/Cedera-Landscapes-LLC/145905138803534" target="_blank"><img  class="noBorder" src="'. $site_url .'/images/layout/facebook.png"> Find us on facebook</a></p>
 			<div class="fb-like" data-href="https://www.facebook.com/#!/pages/Cedera-Landscapes-LLC/145905138803534" data-send="false" data-width="300" data-show-faces="false"></div>
 			<div class="plusone"><!-- Place this tag where you want the +1 button to render -->
 <g:plusone annotation="inline" width="300"></g:plusone></div>
@@ -38,6 +42,7 @@ function footer() {
 }
 
 function links() {
+	global $site_url;
 	print ' 
 	<div id="nav_wrapper">
 	<div class="subnav"><a href="'. $site_url .'/index.php">Home</a></div>
@@ -53,6 +58,31 @@ function links() {
 	';
 }
 
+// left links for portfolio pages 
+function porfolio_links() {
+	global $site_url;
+	print '
+	<h1>Portfolio</h1>
+
+      <a class="portLinks" href="'. $site_url .'/portfolio.php">Gallery 1</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery2.php">Gallery 2</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery3.php">Gallery 3</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery4.php">Gallery 4</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery5.php">Gallery 5</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery6.php">Gallery 6</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery7.php">Gallery 7</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery8.php">Gallery 8</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery9.php">Gallery 9</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery10.php">Gallery 10</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery11.php">Gallery 11</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery12.php">Gallery 12</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery13.php">Gallery 13</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery14.php">Gallery 14</a>
+      <a class="portLinks" href="'. $site_url .'/portfolio/gallery15.php">Gallery 15</a>
+	
+	';
+	
+}
 function analytics() {
 	print '
 	<script type="text/javascript">

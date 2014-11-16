@@ -3,7 +3,7 @@
 
 body {
 	margin:auto;
-	background-image:url(http://cedera-reyncons.rhcloud.com/images/layout/Landscape_60.jpg);
+	background-image:url(../images/layout/Landscape_60.jpg);
 	background-position: center top, left top;
 	background-repeat: no-repeat;
 	background-color:#81400d;
@@ -27,7 +27,7 @@ body {
 #nav_wrapper {
 	width:1024px;
 	height:35px;
-	background-image:url(http://www.cederalandscapes.com/images/layout/link_button.gif);
+	background-image:url(../images/layout/link_button.gif);
 	background-repeat:repeat-x;
 }
 	#top_nav a {
@@ -65,7 +65,7 @@ a:active {
 	}
 	#wrapper {
 		min-height:500px;
-		background-image:url(http://www.cederalandscapes.com/images/layout/wrapper-bg.gif);
+		background-image:url(../images/layout/wrapper-bg.gif);
 		background-repeat:repeat-x;
 	}
 		#left, #right {
