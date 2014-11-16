@@ -1,7 +1,7 @@
 <?php
 global $site_url;
 //define("$site_url", "http://www.cederalandscapes.com");
-$site_url = 'http://cedera';
+$site_url = 'http://cederalandscapes.com';
 
 function footer() {
 	global $site_url;
